@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: Attack bar timer
+## Version: 5.01
+## Author: Udokus
+## X-Credits: Roablock for cleanup
+## Notes: Displays a progress bar for your and enemy attack speed
+
+## SavedVariables: AttackBarDB
+Attackbar.xml
